@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c16dcd9-52d9-47fc-83c3-4f8e2a7bdab4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/intelxdk.config.android.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/intelxdk.config.crosswalk.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/intelxdk.config.ios.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/intelxdk.config.windows8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/livingtokipona.xdke" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/dictionary/toki-dict-kulupu.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/dictionary/toki-dict-monsi.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/tokipona-dictionary.ai" afterPath="$PROJECT_DIR$/www/images/tokipona-dictionary.ai" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www" afterPath="$PROJECT_DIR$/www" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/styles/toki-name.css" afterPath="$PROJECT_DIR$/www/styles/toki-name.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/intelxdk.config.android.xml" afterPath="$PROJECT_DIR$/intelxdk.config.android.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/intelxdk.config.crosswalk.xml" afterPath="$PROJECT_DIR$/intelxdk.config.crosswalk.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/intelxdk.config.ios.xml" afterPath="$PROJECT_DIR$/intelxdk.config.ios.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/intelxdk.config.windows8.xml" afterPath="$PROJECT_DIR$/intelxdk.config.windows8.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/livingtokipona.xdk" afterPath="$PROJECT_DIR$/livingtokipona.xdk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/scripts/toki-name.js" afterPath="$PROJECT_DIR$/www/scripts/toki-name.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="livingtokipona.iws" />
@@ -38,11 +34,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="toki-name.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="toki-name.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/scripts/toki-name.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1945" max-vertical-offset="2850">
-              <caret line="173" column="0" selection-start-line="173" selection-start-column="0" selection-end-line="173" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.59800667" vertical-offset="855" max-vertical-offset="2850">
+              <caret line="93" column="0" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -50,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="toki-name.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="toki-name.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/styles/toki-name.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.41894978" vertical-offset="2678" max-vertical-offset="4680">
-              <caret line="203" column="26" selection-start-line="203" selection-start-column="26" selection-end-line="203" selection-end-column="26" />
+            <state vertical-scroll-proportion="-10.259259" vertical-offset="2678" max-vertical-offset="4680">
+              <caret line="197" column="17" selection-start-line="197" selection-start-column="17" selection-end-line="197" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -141,10 +137,10 @@
         <option value="$PROJECT_DIR$/www/styles/toki-renderer.css" />
         <option value="$PROJECT_DIR$/www/scripts/toki-renderer.js" />
         <option value="$PROJECT_DIR$/www/index.html" />
-        <option value="$PROJECT_DIR$/www/scripts/toki-name.js" />
         <option value="$PROJECT_DIR$/www/images/dictionary/toki-dict-monsi.svg" />
         <option value="$PROJECT_DIR$/www/images/dictionary/toki-dict-kulupu.svg" />
         <option value="$PROJECT_DIR$/www/styles/toki-name.css" />
+        <option value="$PROJECT_DIR$/www/scripts/toki-name.js" />
       </list>
     </option>
   </component>
@@ -613,7 +609,7 @@
       <workItem from="1423248550784" duration="28349000" />
       <workItem from="1423434122073" duration="1560000" />
       <workItem from="1423508095068" duration="6000" />
-      <workItem from="1423689503419" duration="688000" />
+      <workItem from="1423689503419" duration="1556000" />
     </task>
     <task id="LOCAL-00001" summary="Fixed z-index problem.">
       <created>1423263443629</created>
@@ -657,11 +653,17 @@
       <option name="project" value="LOCAL" />
       <updated>1423322257456</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added kulupu and monsi glyphs for sharing and back buttons.">
+      <created>1423693588137</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1423693588137</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30603000" />
+    <option name="totallyTimeSpent" value="31471000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1023" extended-state="6" />
@@ -676,24 +678,24 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -719,7 +721,8 @@
     <MESSAGE value="Turned scripts into modules." />
     <MESSAGE value="Slight change to model" />
     <MESSAGE value="Fixed cartouche resizing code." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed cartouche resizing code." />
+    <MESSAGE value="Added kulupu and monsi glyphs for sharing and back buttons." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added kulupu and monsi glyphs for sharing and back buttons." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -940,21 +943,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/scripts/toki-name.js">
+    <entry file="file://$PROJECT_DIR$/www/styles/toki-name.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1945" max-vertical-offset="2850">
-          <caret line="173" column="0" selection-start-line="173" selection-start-column="0" selection-end-line="173" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="-10.259259" vertical-offset="2678" max-vertical-offset="4680">
+          <caret line="197" column="17" selection-start-line="197" selection-start-column="17" selection-end-line="197" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/styles/toki-name.css">
+    <entry file="file://$PROJECT_DIR$/www/scripts/toki-name.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41894978" vertical-offset="2678" max-vertical-offset="4680">
-          <caret line="203" column="26" selection-start-line="203" selection-start-column="26" selection-end-line="203" selection-end-column="26" />
-          <folding />
+        <state vertical-scroll-proportion="0.59800667" vertical-offset="855" max-vertical-offset="2850">
+          <caret line="93" column="0" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

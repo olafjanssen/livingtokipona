@@ -9,6 +9,7 @@
 <content src="index.html"/>
 <access origin="*"/>
 <intelxdk:plugin intelxdk:name="cordova-screenshot" intelxdk:value="plugins/cordova-screenshot-master" intelxdk:type="local"/>
+<intelxdk:plugin intelxdk:name="SocialSharing-PhoneGap-Plugin" intelxdk:value="https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin.git"/>
 <preference name="ios-target" value="7.1"/>
 <preference name="ios-configuration" value="adhoc"/>
 <intelxdk:provisioning intelxdk:src="Olaf_Personal_Ad_Hoc.mobileprovision" intelxdk:type="adhoc"/>

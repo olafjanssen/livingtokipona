@@ -9,6 +9,7 @@
 <content src="index.html"/>
 <access origin="*"/>
 <intelxdk:plugin intelxdk:name="cordova-screenshot" intelxdk:value="plugins/cordova-screenshot-master" intelxdk:type="local"/>
+<intelxdk:plugin intelxdk:name="SocialSharing-PhoneGap-Plugin" intelxdk:value="https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin.git"/>
 <preference name="android-minSdkVersion" value="14"/>
 <preference name="android-targetSdkVersion" value="19"/>
 <preference name="android-installLocation" value="auto"/>
