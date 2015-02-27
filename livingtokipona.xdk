@@ -6,7 +6,7 @@
       "projectTypeName": "com.intel.xdk.projecttype.jsapp",
       "src": "",
       "projectGuid": "c64d3717-76c8-41b5-af2c-8ff9d0a20503",
-      "lastModifiedDate": 1425067970837,
+      "lastModifiedDate": 1425074378614,
       "creationDate": 1423240935417
     },
     "XDK-app-designer": "false",
@@ -31,14 +31,9 @@
       },
       {
         "id": "nl.x-services.plugins.socialsharing",
-        "version": "",
         "selectedState": "Included",
         "data": {},
-        "paramvals": {},
-        "custom": "true",
-        "name": "SocialSharing-PhoneGap-Plugin",
-        "origin": "https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin.git",
-        "originType": "repo"
+        "paramvals": {}
       }
     ],
     "buildConfigurations": {
