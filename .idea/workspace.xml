@@ -2,13 +2,132 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c16dcd9-52d9-47fc-83c3-4f8e2a7bdab4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www" afterPath="$PROJECT_DIR$/www" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/intelxdk.config.android.xml" afterPath="$PROJECT_DIR$/intelxdk.config.android.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/intelxdk.config.crosswalk.xml" afterPath="$PROJECT_DIR$/intelxdk.config.crosswalk.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/intelxdk.config.ios.xml" afterPath="$PROJECT_DIR$/intelxdk.config.ios.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/intelxdk.config.windows8.xml" afterPath="$PROJECT_DIR$/intelxdk.config.windows8.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/livingtokipona.xdk" afterPath="$PROJECT_DIR$/livingtokipona.xdk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/tokipona-dictionary.ai" afterPath="$PROJECT_DIR$/www/images/tokipona-dictionary.ai" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/a.svg" afterPath="$PROJECT_DIR$/www/images/syllables/a.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/an.svg" afterPath="$PROJECT_DIR$/www/images/syllables/an.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/e.svg" afterPath="$PROJECT_DIR$/www/images/syllables/e.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/en.svg" afterPath="$PROJECT_DIR$/www/images/syllables/en.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/i.svg" afterPath="$PROJECT_DIR$/www/images/syllables/i.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/in.svg" afterPath="$PROJECT_DIR$/www/images/syllables/in.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/ja.svg" afterPath="$PROJECT_DIR$/www/images/syllables/ja.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/jan.svg" afterPath="$PROJECT_DIR$/www/images/syllables/jan.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/je.svg" afterPath="$PROJECT_DIR$/www/images/syllables/je.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/jen.svg" afterPath="$PROJECT_DIR$/www/images/syllables/jen.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/jo.svg" afterPath="$PROJECT_DIR$/www/images/syllables/jo.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/jon.svg" afterPath="$PROJECT_DIR$/www/images/syllables/jon.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/ju.svg" afterPath="$PROJECT_DIR$/www/images/syllables/ju.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/jun.svg" afterPath="$PROJECT_DIR$/www/images/syllables/jun.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/ka.svg" afterPath="$PROJECT_DIR$/www/images/syllables/ka.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/kan.svg" afterPath="$PROJECT_DIR$/www/images/syllables/kan.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/ke.svg" afterPath="$PROJECT_DIR$/www/images/syllables/ke.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/ken.svg" afterPath="$PROJECT_DIR$/www/images/syllables/ken.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/ki.svg" afterPath="$PROJECT_DIR$/www/images/syllables/ki.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/kin.svg" afterPath="$PROJECT_DIR$/www/images/syllables/kin.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/ko.svg" afterPath="$PROJECT_DIR$/www/images/syllables/ko.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/kon.svg" afterPath="$PROJECT_DIR$/www/images/syllables/kon.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/ku.svg" afterPath="$PROJECT_DIR$/www/images/syllables/ku.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/kun.svg" afterPath="$PROJECT_DIR$/www/images/syllables/kun.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/la.svg" afterPath="$PROJECT_DIR$/www/images/syllables/la.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/lan.svg" afterPath="$PROJECT_DIR$/www/images/syllables/lan.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/le.svg" afterPath="$PROJECT_DIR$/www/images/syllables/le.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/len.svg" afterPath="$PROJECT_DIR$/www/images/syllables/len.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/li.svg" afterPath="$PROJECT_DIR$/www/images/syllables/li.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/lin.svg" afterPath="$PROJECT_DIR$/www/images/syllables/lin.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/lo.svg" afterPath="$PROJECT_DIR$/www/images/syllables/lo.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/lon.svg" afterPath="$PROJECT_DIR$/www/images/syllables/lon.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/lu.svg" afterPath="$PROJECT_DIR$/www/images/syllables/lu.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/lun.svg" afterPath="$PROJECT_DIR$/www/images/syllables/lun.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/ma.svg" afterPath="$PROJECT_DIR$/www/images/syllables/ma.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/man.svg" afterPath="$PROJECT_DIR$/www/images/syllables/man.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/me.svg" afterPath="$PROJECT_DIR$/www/images/syllables/me.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/men.svg" afterPath="$PROJECT_DIR$/www/images/syllables/men.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/mi.svg" afterPath="$PROJECT_DIR$/www/images/syllables/mi.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/min.svg" afterPath="$PROJECT_DIR$/www/images/syllables/min.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/mo.svg" afterPath="$PROJECT_DIR$/www/images/syllables/mo.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/mon.svg" afterPath="$PROJECT_DIR$/www/images/syllables/mon.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/mu.svg" afterPath="$PROJECT_DIR$/www/images/syllables/mu.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/mun.svg" afterPath="$PROJECT_DIR$/www/images/syllables/mun.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/na.svg" afterPath="$PROJECT_DIR$/www/images/syllables/na.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/nan.svg" afterPath="$PROJECT_DIR$/www/images/syllables/nan.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/ne.svg" afterPath="$PROJECT_DIR$/www/images/syllables/ne.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/nen.svg" afterPath="$PROJECT_DIR$/www/images/syllables/nen.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/ni.svg" afterPath="$PROJECT_DIR$/www/images/syllables/ni.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/nin.svg" afterPath="$PROJECT_DIR$/www/images/syllables/nin.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/no.svg" afterPath="$PROJECT_DIR$/www/images/syllables/no.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/non.svg" afterPath="$PROJECT_DIR$/www/images/syllables/non.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/nu.svg" afterPath="$PROJECT_DIR$/www/images/syllables/nu.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/nun.svg" afterPath="$PROJECT_DIR$/www/images/syllables/nun.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/o.svg" afterPath="$PROJECT_DIR$/www/images/syllables/o.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/on.svg" afterPath="$PROJECT_DIR$/www/images/syllables/on.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/pa.svg" afterPath="$PROJECT_DIR$/www/images/syllables/pa.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/pan.svg" afterPath="$PROJECT_DIR$/www/images/syllables/pan.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/pe.svg" afterPath="$PROJECT_DIR$/www/images/syllables/pe.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/pen.svg" afterPath="$PROJECT_DIR$/www/images/syllables/pen.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/pi.svg" afterPath="$PROJECT_DIR$/www/images/syllables/pi.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/pin.svg" afterPath="$PROJECT_DIR$/www/images/syllables/pin.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/po.svg" afterPath="$PROJECT_DIR$/www/images/syllables/po.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/pon.svg" afterPath="$PROJECT_DIR$/www/images/syllables/pon.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/pu.svg" afterPath="$PROJECT_DIR$/www/images/syllables/pu.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/pun.svg" afterPath="$PROJECT_DIR$/www/images/syllables/pun.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/sa.svg" afterPath="$PROJECT_DIR$/www/images/syllables/sa.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/san.svg" afterPath="$PROJECT_DIR$/www/images/syllables/san.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/se.svg" afterPath="$PROJECT_DIR$/www/images/syllables/se.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/sen.svg" afterPath="$PROJECT_DIR$/www/images/syllables/sen.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/si.svg" afterPath="$PROJECT_DIR$/www/images/syllables/si.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/sin.svg" afterPath="$PROJECT_DIR$/www/images/syllables/sin.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/so.svg" afterPath="$PROJECT_DIR$/www/images/syllables/so.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/son.svg" afterPath="$PROJECT_DIR$/www/images/syllables/son.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/su.svg" afterPath="$PROJECT_DIR$/www/images/syllables/su.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/sun.svg" afterPath="$PROJECT_DIR$/www/images/syllables/sun.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/ta.svg" afterPath="$PROJECT_DIR$/www/images/syllables/ta.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/tan.svg" afterPath="$PROJECT_DIR$/www/images/syllables/tan.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/te.svg" afterPath="$PROJECT_DIR$/www/images/syllables/te.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/ten.svg" afterPath="$PROJECT_DIR$/www/images/syllables/ten.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/test.svg" afterPath="$PROJECT_DIR$/www/images/test.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/to.svg" afterPath="$PROJECT_DIR$/www/images/syllables/to.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/dictionary/toki-dict-cartouche-row.svg" afterPath="$PROJECT_DIR$/www/images/dictionary/toki-dict-cartouche-row.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/dictionary/toki-dict-cartouche.svg" afterPath="$PROJECT_DIR$/www/images/dictionary/toki-dict-cartouche.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/dictionary/toki-dict-e.svg" afterPath="$PROJECT_DIR$/www/images/dictionary/toki-dict-e.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/dictionary/toki-dict-exclamation.svg" afterPath="$PROJECT_DIR$/www/images/dictionary/toki-dict-exclamation.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/dictionary/toki-dict-ijo.svg" afterPath="$PROJECT_DIR$/www/images/dictionary/toki-dict-ijo.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/dictionary/toki-dict-ilo.svg" afterPath="$PROJECT_DIR$/www/images/dictionary/toki-dict-ilo.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/dictionary/toki-dict-jan.svg" afterPath="$PROJECT_DIR$/www/images/dictionary/toki-dict-jan.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/dictionary/toki-dict-jo.svg" afterPath="$PROJECT_DIR$/www/images/dictionary/toki-dict-jo.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/dictionary/toki-dict-kili.svg" afterPath="$PROJECT_DIR$/www/images/dictionary/toki-dict-kili.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/dictionary/toki-dict-kulupu.svg" afterPath="$PROJECT_DIR$/www/images/dictionary/toki-dict-kulupu.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/dictionary/toki-dict-li.svg" afterPath="$PROJECT_DIR$/www/images/dictionary/toki-dict-li.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/dictionary/toki-dict-lukin.svg" afterPath="$PROJECT_DIR$/www/images/dictionary/toki-dict-lukin.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/dictionary/toki-dict-mi.svg" afterPath="$PROJECT_DIR$/www/images/dictionary/toki-dict-mi.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/dictionary/toki-dict-moku.svg" afterPath="$PROJECT_DIR$/www/images/dictionary/toki-dict-moku.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/dictionary/toki-dict-monsi.svg" afterPath="$PROJECT_DIR$/www/images/dictionary/toki-dict-monsi.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/dictionary/toki-dict-ona.svg" afterPath="$PROJECT_DIR$/www/images/dictionary/toki-dict-ona.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/dictionary/toki-dict-pakala.svg" afterPath="$PROJECT_DIR$/www/images/dictionary/toki-dict-pakala.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/dictionary/toki-dict-period.svg" afterPath="$PROJECT_DIR$/www/images/dictionary/toki-dict-period.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/dictionary/toki-dict-pipi.svg" afterPath="$PROJECT_DIR$/www/images/dictionary/toki-dict-pipi.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/dictionary/toki-dict-poki.svg" afterPath="$PROJECT_DIR$/www/images/dictionary/toki-dict-poki.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/dictionary/toki-dict-pona.svg" afterPath="$PROJECT_DIR$/www/images/dictionary/toki-dict-pona.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/dictionary/toki-dict-sina.svg" afterPath="$PROJECT_DIR$/www/images/dictionary/toki-dict-sina.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/dictionary/toki-dict-sitelen.svg" afterPath="$PROJECT_DIR$/www/images/dictionary/toki-dict-sitelen.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/dictionary/toki-dict-suli.svg" afterPath="$PROJECT_DIR$/www/images/dictionary/toki-dict-suli.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/dictionary/toki-dict-suno.svg" afterPath="$PROJECT_DIR$/www/images/dictionary/toki-dict-suno.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/dictionary/toki-dict-telo.svg" afterPath="$PROJECT_DIR$/www/images/dictionary/toki-dict-telo.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/dictionary/toki-dict-unpa.svg" afterPath="$PROJECT_DIR$/www/images/dictionary/toki-dict-unpa.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/dictionary/toki-dict-wile.svg" afterPath="$PROJECT_DIR$/www/images/dictionary/toki-dict-wile.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/styles/toki-name.css" afterPath="$PROJECT_DIR$/www/styles/toki-name.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/scripts/toki-name.js" afterPath="$PROJECT_DIR$/www/scripts/toki-name.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/tokipona-syllables.svg" afterPath="$PROJECT_DIR$/www/images/tokipona-syllables.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/ton.svg" afterPath="$PROJECT_DIR$/www/images/syllables/ton.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/tu.svg" afterPath="$PROJECT_DIR$/www/images/syllables/tu.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/tun.svg" afterPath="$PROJECT_DIR$/www/images/syllables/tun.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/u.svg" afterPath="$PROJECT_DIR$/www/images/syllables/u.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/un.svg" afterPath="$PROJECT_DIR$/www/images/syllables/un.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/wa.svg" afterPath="$PROJECT_DIR$/www/images/syllables/wa.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/wan.svg" afterPath="$PROJECT_DIR$/www/images/syllables/wan.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/we.svg" afterPath="$PROJECT_DIR$/www/images/syllables/we.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/wen.svg" afterPath="$PROJECT_DIR$/www/images/syllables/wen.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/wi.svg" afterPath="$PROJECT_DIR$/www/images/syllables/wi.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/syllables/win.svg" afterPath="$PROJECT_DIR$/www/images/syllables/win.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="livingtokipona.iws" />
@@ -34,11 +153,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="toki-name.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="toki-name.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/scripts/toki-name.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.59800667" vertical-offset="855" max-vertical-offset="2850">
-              <caret line="93" column="0" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+            <state vertical-scroll-proportion="-10.814815" vertical-offset="8" max-vertical-offset="2895">
+              <caret line="20" column="10" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="10" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -46,21 +165,57 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="a.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/images/syllables/a.svg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
+              <caret line="5" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jan.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/images/syllables/jan.svg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="315">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kan.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/images/syllables/kan.svg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="315">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="toki-name.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/styles/toki-name.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.259259" vertical-offset="2678" max-vertical-offset="4680">
-              <caret line="197" column="17" selection-start-line="197" selection-start-column="17" selection-end-line="197" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5130">
+              <caret line="144" column="48" selection-start-line="144" selection-start-column="48" selection-end-line="144" selection-end-column="48" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="toki-dict-jan.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/images/dictionary/toki-dict-jan.svg">
+      <file leaf-file-name="toki-dict-e.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/images/dictionary/toki-dict-e.svg">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.0" vertical-offset="0" max-vertical-offset="465">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state vertical-scroll-proportion="-1.5" vertical-offset="0" max-vertical-offset="330">
+              <caret line="3" column="112" selection-start-line="3" selection-start-column="94" selection-end-line="3" selection-end-column="112" />
               <folding />
             </state>
           </provider>
@@ -69,34 +224,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="toki-dict-monsi.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/images/dictionary/toki-dict-monsi.svg">
+      <file leaf-file-name="toki-dict-cartouche-row.svg" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/images/dictionary/toki-dict-cartouche-row.svg">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.0" vertical-offset="0" max-vertical-offset="300">
-              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.049833886" vertical-offset="0" max-vertical-offset="903">
+              <caret line="3" column="77" selection-start-line="3" selection-start-column="77" selection-end-line="3" selection-end-column="77" />
               <folding />
             </state>
-          </provider>
-          <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="toki-dict-kulupu.svg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/images/dictionary/toki-dict-kulupu.svg">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
+            <state vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="750">
               <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1095" max-vertical-offset="1230">
-              <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+            <state vertical-scroll-proportion="-20.375" vertical-offset="351" max-vertical-offset="1245">
+              <caret line="56" column="4" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -105,18 +260,8 @@
       <file leaf-file-name="toki-renderer.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/scripts/toki-renderer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="2535">
-              <caret line="18" column="21" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="toki-renderer.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/styles/toki-renderer.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1770" max-vertical-offset="3285">
-              <caret line="118" column="18" selection-start-line="118" selection-start-column="18" selection-end-line="118" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2535">
+              <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -135,12 +280,13 @@
         <option value="$PROJECT_DIR$/www/images/toki-dict-sitelen.svg" />
         <option value="$PROJECT_DIR$/www/images/dictionary/toki-dict-jan.svg" />
         <option value="$PROJECT_DIR$/www/styles/toki-renderer.css" />
-        <option value="$PROJECT_DIR$/www/scripts/toki-renderer.js" />
-        <option value="$PROJECT_DIR$/www/index.html" />
         <option value="$PROJECT_DIR$/www/images/dictionary/toki-dict-monsi.svg" />
         <option value="$PROJECT_DIR$/www/images/dictionary/toki-dict-kulupu.svg" />
+        <option value="$PROJECT_DIR$/www/index.html" />
         <option value="$PROJECT_DIR$/www/styles/toki-name.css" />
         <option value="$PROJECT_DIR$/www/scripts/toki-name.js" />
+        <option value="$PROJECT_DIR$/www/scripts/toki-renderer.js" />
+        <option value="$PROJECT_DIR$/www/images/dictionary/toki-dict-cartouche-row.svg" />
       </list>
     </option>
   </component>
@@ -243,46 +389,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="livingtokipona" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="livingtokipona" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="livingtokipona" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="livingtokipona" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dictionary" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -609,7 +715,9 @@
       <workItem from="1423248550784" duration="28349000" />
       <workItem from="1423434122073" duration="1560000" />
       <workItem from="1423508095068" duration="6000" />
-      <workItem from="1423689503419" duration="1556000" />
+      <workItem from="1423689503419" duration="2704000" />
+      <workItem from="1423735214232" duration="40000" />
+      <workItem from="1425058568435" duration="1786000" />
     </task>
     <task id="LOCAL-00001" summary="Fixed z-index problem.">
       <created>1423263443629</created>
@@ -659,15 +767,27 @@
       <option name="project" value="LOCAL" />
       <updated>1423693588137</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added social sharing of name sharing">
+      <created>1423694974985</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1423694974985</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Fix several dictionary svgs.">
+      <created>1425060726254</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1425060726254</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31471000" />
+    <option name="totallyTimeSpent" value="34445000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1023" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1680" height="1023" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -675,6 +795,7 @@
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32975295" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -690,12 +811,11 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -722,13 +842,163 @@
     <MESSAGE value="Slight change to model" />
     <MESSAGE value="Fixed cartouche resizing code." />
     <MESSAGE value="Added kulupu and monsi glyphs for sharing and back buttons." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added kulupu and monsi glyphs for sharing and back buttons." />
+    <MESSAGE value="Added social sharing of name sharing" />
+    <MESSAGE value="Fix several dictionary svgs." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix several dictionary svgs." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/www/scripts/toki-name.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1031" max-vertical-offset="2895">
+          <caret line="90" column="63" selection-start-line="90" selection-start-column="49" selection-end-line="90" selection-end-column="63" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/styles/toki-name.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5130">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/images/dictionary/toki-dict-jan.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="465">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/images/dictionary/toki-dict-monsi.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="300">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/images/dictionary/toki-dict-kulupu.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="750">
+          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="351" max-vertical-offset="1245">
+          <caret line="56" column="4" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/scripts/toki-renderer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="2535">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/styles/toki-renderer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1770" max-vertical-offset="3285">
+          <caret line="118" column="18" selection-start-line="118" selection-start-column="18" selection-end-line="118" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/scripts/toki-name.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1031" max-vertical-offset="2895">
+          <caret line="90" column="63" selection-start-line="90" selection-start-column="49" selection-end-line="90" selection-end-column="63" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/styles/toki-name.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5130">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/images/dictionary/toki-dict-jan.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="465">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/images/dictionary/toki-dict-monsi.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="300">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/images/dictionary/toki-dict-kulupu.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="750">
+          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="351" max-vertical-offset="1245">
+          <caret line="56" column="4" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/scripts/toki-renderer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="2535">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/styles/toki-renderer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1770" max-vertical-offset="3285">
+          <caret line="118" column="18" selection-start-line="118" selection-start-column="18" selection-end-line="118" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/www/scripts/toki-name.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1795" max-vertical-offset="2715">
@@ -897,25 +1167,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1095" max-vertical-offset="1230">
-          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/scripts/toki-renderer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2535">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/images/dictionary/toki-dict-jan.svg">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.0" vertical-offset="0" max-vertical-offset="465">
+        <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="465">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
@@ -926,7 +1180,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/images/dictionary/toki-dict-monsi.svg">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.0" vertical-offset="0" max-vertical-offset="300">
+        <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="300">
           <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
           <folding />
         </state>
@@ -942,22 +1196,90 @@
           <folding />
         </state>
       </provider>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/images/dictionary/toki-dict-e.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5" vertical-offset="0" max-vertical-offset="330">
+          <caret line="3" column="112" selection-start-line="3" selection-start-column="94" selection-end-line="3" selection-end-column="112" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/styles/toki-name.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.259259" vertical-offset="2678" max-vertical-offset="4680">
-          <caret line="197" column="17" selection-start-line="197" selection-start-column="17" selection-end-line="197" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5130">
+          <caret line="144" column="48" selection-start-line="144" selection-start-column="48" selection-end-line="144" selection-end-column="48" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.375" vertical-offset="351" max-vertical-offset="1245">
+          <caret line="56" column="4" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/images/syllables/a.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
+          <caret line="5" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/images/syllables/jan.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="873">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/images/syllables/kan.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="873">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/www/scripts/toki-name.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.59800667" vertical-offset="855" max-vertical-offset="2850">
-          <caret line="93" column="0" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+        <state vertical-scroll-proportion="-10.814815" vertical-offset="8" max-vertical-offset="2895">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="10" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/scripts/toki-renderer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2535">
+          <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/images/dictionary/toki-dict-cartouche-row.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.049833886" vertical-offset="0" max-vertical-offset="903">
+          <caret line="3" column="77" selection-start-line="3" selection-start-column="77" selection-end-line="3" selection-end-column="77" />
+          <folding />
         </state>
       </provider>
     </entry>
