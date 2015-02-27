@@ -1,12 +1,12 @@
 {
   "project": {
-    "projectSettingsVersion": "1.2",
+    "projectSettingsVersion": "1.1",
     "creationData": {
       "type": "Demo",
       "projectTypeName": "com.intel.xdk.projecttype.jsapp",
       "src": "",
       "projectGuid": "c64d3717-76c8-41b5-af2c-8ff9d0a20503",
-      "lastModifiedDate": 1425067970837,
+      "lastModifiedDate": 1423694304167,
       "creationDate": 1423240935417
     },
     "XDK-app-designer": "false",
@@ -14,7 +14,22 @@
     "startFile": "index.html",
     "projectFiles": {},
     "projectDirectories": {},
-    "libraries": [],
+    "libraries": [
+      {
+        "name": "Cordova",
+        "version": "2.9.0",
+        "data": {
+          "default": true
+        }
+      },
+      {
+        "name": "intelXDK",
+        "version": "4.0.0",
+        "data": {
+          "default": true
+        }
+      }
+    ],
     "serviceMethods": [],
     "cordovaPluginsDirectory": "plugins",
     "cordovaPlugins": [
@@ -54,16 +69,12 @@
         "isActive_": true,
         "appName_": "livingtokipona",
         "appID_": "xdk.intel.blank.template",
-        "appAccess_": [
-          {
-            "origin": "*"
-          }
-        ],
+        "appAccess_": "*",
         "icons_": [],
         "splashes_": [],
+        "iosProvs_": [],
         "addlPermissions_": "",
         "excludedLibraries_": "",
-        "iosProvs_": [],
         "cordovaCLIVersion_": "3.5",
         "crosswalkVersion_": "stable",
         "appVersion_": "0.0.1",
@@ -83,18 +94,14 @@
         "isActive_": true,
         "appName_": "livingtokipona",
         "appID_": "xdk.intel.blank.template",
-        "appAccess_": [
-          {
-            "origin": "*"
-          }
-        ],
+        "appAccess_": "*",
         "icons_": [],
         "splashes_": [],
+        "iosProvs_": [],
         "addlPermissions_": "",
         "excludedLibraries_": "",
-        "iosProvs_": [],
         "cordovaCLIVersion_": "3.5",
-        "crosswalkVersion_": "10",
+        "crosswalkVersion_": "stable",
         "appVersion_": "0.0.1",
         "appDescription_": "Use this template to start with a simple index.html file for creating mobile apps.",
         "appAuthor_": "",
@@ -111,21 +118,17 @@
         "isActive_": true,
         "appName_": "livingtokipona",
         "appID_": "org.nullement.livingtokipona",
-        "appAccess_": [
-          {
-            "origin": "*"
-          }
-        ],
+        "appAccess_": "*",
         "icons_": [],
         "splashes_": [],
-        "addlPermissions_": "",
-        "excludedLibraries_": "",
         "iosProvs_": [
           {
             "relPath": "Olaf_Personal_Ad_Hoc.mobileprovision",
             "type": "adhoc"
           }
         ],
+        "addlPermissions_": "",
+        "excludedLibraries_": "",
         "cordovaCLIVersion_": "3.5",
         "crosswalkVersion_": "stable",
         "appVersion_": "0.0.1",
@@ -142,16 +145,31 @@
         "isActive_": true,
         "appName_": "livingtokipona",
         "appID_": "xdk.intel.blank.template",
-        "appAccess_": [
-          {
-            "origin": "*"
-          }
-        ],
+        "appAccess_": "*",
         "icons_": [],
         "splashes_": [],
+        "iosProvs_": [],
         "addlPermissions_": "",
         "excludedLibraries_": "",
+        "cordovaCLIVersion_": "3.5",
+        "crosswalkVersion_": "stable",
+        "appVersion_": "0.0.0.1",
+        "appDescription_": "Use this template to start with a simple index.html file for creating mobile apps."
+      },
+      "WindowsPhone8": {
+        "platform_": "wp8",
+        "runtime_": "Cordova 3.x",
+        "name_": "WindowsPhone8",
+        "preferences_": {},
+        "isActive_": true,
+        "appName_": "livingtokipona",
+        "appID_": "xdk.intel.blank.template",
+        "appAccess_": "*",
+        "icons_": [],
+        "splashes_": [],
         "iosProvs_": [],
+        "addlPermissions_": "",
+        "excludedLibraries_": "",
         "cordovaCLIVersion_": "3.5",
         "crosswalkVersion_": "stable",
         "appVersion_": "0.0.0.1",
